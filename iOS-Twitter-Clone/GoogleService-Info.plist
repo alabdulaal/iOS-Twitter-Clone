@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>285391229688-kqpc7rm08o3f7mglbi0it6kn2an6bncu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.285391229688-kqpc7rm08o3f7mglbi0it6kn2an6bncu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdocf2qLJ_tNbKO-upPna2Ar9DCF9HZ6g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285391229688</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alabdulaal.iOS-Twitter-Clone</string>
+	<key>PROJECT_ID</key>
+	<string>ios-twitter-automation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-twitter-automation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285391229688:ios:6568811f09088fa57ea10d</string>
+	<key>DATABASE_URL</key>
+	<string>https://ios-twitter-automation.firebaseio.com</string>
+</dict>
+</plist>
