@@ -1,2 +1,2 @@
-# iOS-Twitter-Automation
+# iOS-Twitter-Clone
 
